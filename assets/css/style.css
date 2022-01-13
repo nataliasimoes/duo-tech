@@ -4,7 +4,6 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -559,7 +558,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: linear-gradient(90deg, rgba(32, 86, 71, 0.5) 0%, rgba(32, 86, 71, 0.5) 100%), url("../img/counts-bg.png") center center no-repeat;
+  background: linear-gradient(90deg, rgba(32, 86, 71, 0.5) 0%, rgba(30, 31, 31, 0.5) 100%), url("../img/counts-bg.png") center center no-repeat;
   padding: 80px 0 60px 0;
 }
 .counts .counters span {
@@ -628,58 +627,58 @@ section {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
 }
 .services .iconbox-blue i {
-  color: #47aeff;
+  color: #207d47;
 }
 .services .iconbox-blue:hover .icon i {
   color: #fff;
 }
 .services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+  fill: #207d47;
 }
 .services .iconbox-orange i {
-  color: #ffa76e;
+  color: #207d47;
 }
 .services .iconbox-orange:hover .icon i {
   color: #fff;
 }
 .services .iconbox-orange:hover .icon path {
-  fill: #ffa76e;
+  fill: #207d47;
 }
 .services .iconbox-pink i {
-  color: #e80368;
+  color: #207d47;
 }
 .services .iconbox-pink:hover .icon i {
   color: #fff;
 }
 .services .iconbox-pink:hover .icon path {
-  fill: #e80368;
+  fill: #207d47;
 }
 .services .iconbox-yellow i {
-  color: #ffbb2c;
+  color: #207d47;
 }
 .services .iconbox-yellow:hover .icon i {
   color: #fff;
 }
 .services .iconbox-yellow:hover .icon path {
-  fill: #ffbb2c;
+  fill: #207d47;
 }
 .services .iconbox-red i {
-  color: #ff5828;
+  color: #207d47;
 }
 .services .iconbox-red:hover .icon i {
   color: #fff;
 }
 .services .iconbox-red:hover .icon path {
-  fill: #ff5828;
+  fill: #207d47;
 }
 .services .iconbox-teal i {
-  color: #11dbcf;
+  color: #207d47;
 }
 .services .iconbox-teal:hover .icon i {
   color: #fff;
 }
 .services .iconbox-teal:hover .icon path {
-  fill: #11dbcf;
+  fill: #207d47;
 }
 
 /*--------------------------------------------------------------
@@ -871,7 +870,6 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
-
 
 
 /*--------------------------------------------------------------
