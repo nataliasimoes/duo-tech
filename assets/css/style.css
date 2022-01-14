@@ -684,6 +684,10 @@ section {
 /*--------------------------------------------------------------
 # Features
 --------------------------------------------------------------*/
+.features{
+  background-color: #313b38;
+}
+
 .features .icon-box h4 {
   font-size: 20px;
   font-weight: 700;
@@ -696,7 +700,7 @@ section {
 }
 .features .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #c7c7c7;
   margin-left: 60px;
 }
 .features .image {
